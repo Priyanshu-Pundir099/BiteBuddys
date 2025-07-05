@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../xyz"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "BiteBuddy",
+		"liveServer.settings.port": 5502
+	}
+}
